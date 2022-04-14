@@ -1,8 +1,8 @@
-# JuliaDataAnalysis
+# Julia for Data Analysis in Pluto playground
 
 This code base is using the Julia Language and [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
-> JuliaDataAnalysis
+> JuliaForDataAnalysisInPluto
 
 It is authored by Rob J Goedman.
 
